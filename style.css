@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(100, 24, 96);
+    background-image: url();
+}
+h4{
+    color: beige;
+}
+ h2.header {
+    color: rgb(196, 199, 13);
+}
+.header{
+    font-size: 50px;
+}
+p {
+    font-size: 30px;
+    color: aqua;
+}
+p.paragraph {
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+}
+p {
+    color: black;
+    font-weight: 400;
+    font-size: 50px;
+}
+p.strong{
+    font-size: 20px;
+    color: rgb(63, 236, 10);
+}
+p strong.bold {
+    color: black;
+}
+.uppercase{
+    text-transform: capitalize;
+    color: aqua;
+}
+.lowercase{
+    text-transform: lowercase;
+    color: aqua;
+}
+ul li {
+    color: aquamarine;
+    font-size: 30px;
+}
+ul h5{
+    font-size: 30px;
+    color: blue;
+}
